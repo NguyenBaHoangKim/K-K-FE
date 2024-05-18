@@ -1,4 +1,4 @@
-package com.example.k_k_application.ui.notifications
+package com.example.k_k_application.fragment.notifications
 
 import android.os.Bundle
 import android.view.LayoutInflater
